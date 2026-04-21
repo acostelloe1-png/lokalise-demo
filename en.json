@@ -1,0 +1,44 @@
+{
+  "nav_home": "Home",
+  "nav_dashboard": "Dashboard",
+  "nav_settings": "Settings",
+  "nav_help": "Help",
+  "nav_logout": "Log out",
+
+  "auth_login_title": "Welcome back",
+  "auth_login_subtitle": "Sign in to your account to continue",
+  "auth_login_email": "Email address",
+  "auth_login_password": "Password",
+  "auth_login_button": "Sign in",
+  "auth_forgot_password": "Forgot your password?",
+  "auth_no_account": "Don't have an account? Sign up",
+
+  "dashboard_greeting": "Good morning, {{name}}!",
+  "dashboard_summary_title": "Your summary",
+  "dashboard_projects_active": "Active projects",
+  "dashboard_tasks_pending": "Pending tasks",
+  "dashboard_last_updated": "Last updated: {{date}}",
+
+  "project_new_button": "New project",
+  "project_status_active": "Active",
+  "project_status_completed": "Completed",
+  "project_status_archived": "Archived",
+  "project_delete_confirm": "Are you sure you want to delete this project? This action cannot be undone.",
+
+  "settings_profile_title": "Profile settings",
+  "settings_language_title": "Language & region",
+  "settings_notifications_title": "Notifications",
+  "settings_save_button": "Save changes",
+  "settings_cancel_button": "Cancel",
+  "settings_saved_success": "Your settings have been saved successfully.",
+
+  "error_generic": "Something went wrong. Please try again.",
+  "error_not_found": "The page you're looking for doesn't exist.",
+  "error_unauthorized": "You don't have permission to access this page.",
+  "error_session_expired": "Your session has expired. Please sign in again.",
+
+  "footer_privacy": "Privacy policy",
+  "footer_terms": "Terms of service",
+  "footer_contact": "Contact us",
+  "footer_copyright": "© 2026 Acme Corp. All rights reserved."
+}
